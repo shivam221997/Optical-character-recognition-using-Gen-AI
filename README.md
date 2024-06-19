@@ -15,7 +15,8 @@ Advanced AI Language Models: These models can now take the text output from OCR 
 ## Impact:
 This combination of technologies enables:
 
-## High-accuracy text conversion from scanned documents.
-Automated data processing and action-taking, reducing the need for manual labor.
+  1)High-accuracy text conversion from scanned documents.
+  
+  2)Automated data processing and action-taking, reducing the need for manual labor.
 ## Prediction
 Large amounts of routine back-office work, often offshored to developing countries, will soon be almost entirely automated using machine learning OCR systems and advanced AI language models.
