@@ -1,13 +1,1 @@
-Step -1
-Run the code in pycharm 
-'''use the command- uvicorn main:app --reload
-'''
 
- 
-
-Step-2
-After opening the FAST API server. The interface will look like this-
- 
-
-STEP-3
-Next step to provide the document from which data need to be extracted.
