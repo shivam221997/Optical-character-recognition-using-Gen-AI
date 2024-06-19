@@ -1,27 +1,25 @@
-![image_2](https://github.com/shivam221997/optical-character-recognition-using-Gen-AI/assets/156662255/68689543-a3e6-4dca-b532-362f863ad669)# Optical-Character-Recognition-using-Gen-AI
-
 ## Project Overview
 Does your company handle paper or scanned documents like invoices, purchase orders, or underwriting documents? Recent advancements in generative AI are revolutionizing cost reduction through automation.
-
 
 ## Key Developments:
 Improved OCR Accuracy: Machine-learning-based optical character recognition (OCR) models have significantly improved over the past three years, addressing issues like blurry text and unusual fonts. Now, cloud services like Microsoft Azure Form Recognition, Amazon Textract, and Google's Tesseract library offer high accuracy without needing custom models.
 
-## System Architecture:
-  ![iamage_1](https://github.com/shivam221997/optical-character-recognition-using-Gen-AI/assets/156662255/da71e037-ec92-4cf0-bb42-20d545c344f8) .
-
+## System Architecture-
 Advanced AI Language Models: These models can now take the text output from OCR systems, analyze it, convert it into structured data (e.g., JSON), and automate actions within a company's systems based on document content.
+![iamage_1](https://github.com/shivam221997/optical-character-recognition-using-Gen-AI/assets/156662255/ccb5cc8d-67c9-4ad0-86c0-ec1037fdbd75)
+
 
 ## Impact:
 This combination of technologies enables:
 
-  1)High-accuracy text conversion from scanned documents.
-  
-  2)Automated data processing and action-taking, reducing the need for manual labor.
+High-accuracy text conversion from scanned documents.
+
+Automated data processing and action-taking, reducing the need for manual labor.
 ## Prediction
 Large amounts of routine back-office work, often offshored to developing countries, will soon be almost entirely automated using machine learning OCR systems and advanced AI language models.
 
-## FLow of code -
+# Showing Code Flow Using Images-
+
 Step-1
 Run the code in pycharm 
 '''use the command- uvicorn main:app --reload
@@ -42,7 +40,3 @@ Step-4
 As we upload the document at the end point of FAST API server . it accept the pdf and do internal processing to extract images and then call google gen ai model . finally it returns a Json response.
 
 ![image_3](https://github.com/shivam221997/optical-character-recognition-using-Gen-AI/assets/156662255/c405b803-d283-441c-b914-3967e1b423bd)
-
-
-
-
